@@ -1,0 +1,6 @@
+C:\Users\daoph\source\repos\Quản lý Sinh viên\Quản lý Sinh viên\obj\Debug\netcoreapp2.2\Quản lý Sinh viên.csprojAssemblyReference.cache
+C:\Users\daoph\source\repos\Quản lý Sinh viên\Quản lý Sinh viên\obj\Debug\netcoreapp2.2\Quản lý Sinh viên.csproj.CoreCompileInputs.cache
+C:\Users\daoph\source\repos\Quản lý Sinh viên\Quản lý Sinh viên\obj\Debug\netcoreapp2.2\Quản lý Sinh viên.RazorAssemblyInfo.cache
+C:\Users\daoph\source\repos\Quản lý Sinh viên\Quản lý Sinh viên\obj\Debug\netcoreapp2.2\Quản lý Sinh viên.RazorAssemblyInfo.cs
+C:\Users\daoph\source\repos\Quản lý Sinh viên\Quản lý Sinh viên\obj\Debug\netcoreapp2.2\Quản lý Sinh viên.AssemblyInfoInputs.cache
+C:\Users\daoph\source\repos\Quản lý Sinh viên\Quản lý Sinh viên\obj\Debug\netcoreapp2.2\Quản lý Sinh viên.AssemblyInfo.cs
